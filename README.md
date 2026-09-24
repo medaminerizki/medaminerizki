@@ -61,7 +61,7 @@ Designed, built and deployed solo.
 
 <br>
 
-**[→ Explore the repository](https://github.com/medaminerizki)**
+**[→ Private repository — details on request.**
 
 <br>
 
