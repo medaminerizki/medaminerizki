@@ -25,7 +25,7 @@ Software engineering degree from Mundiapolis University, 2026.
 
 ---
 
-## Last Project : 🏔️ Blook.ma
+## Latest Project : 🏔️ Blook.ma
 
 **A booking platform for rural guesthouses in Morocco.**<br>
 Designed, built and deployed solo.
